@@ -44,6 +44,32 @@
 
 ---
 
+## 💻 Tech Stack:
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+<img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap" />
+<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman" />
+<img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visual-studio-code" />
+
+</div>
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
