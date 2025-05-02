@@ -50,15 +50,16 @@
 
 ## 📊 GitHub Stats
 
-<<div align="center">
+<div align="center">
 
-[![AjayMaan13's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AjayMaan13&theme=default&hide_border=true)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayMaan13&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![AjayMaan13's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayMaan13&show_icons=true&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![AjayMaan13's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AjayMaan13&theme=github-dark&hide_border=true)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayMaan13&layout=compact&theme=github-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![AjayMaan13's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayMaan13&show_icons=true&theme=github-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=AjayMaan13&theme=flat&margin-w=10&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AjayMaan13&theme=github&margin-w=10&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
 
 ## 📈 Profile Views
 
