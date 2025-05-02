@@ -10,7 +10,7 @@
 - 🎓 I'm currently studying **Computer Programming and Analysis** at Seneca College  
 - 🌱 Constantly learning new technologies and building side projects  
 - 💼 Actively seeking internships or co-op opportunities  
-- 📫 Reach me at: **ajaymaan.dev@gmail.com**  
+- 📫 Reach me at: **ajayapsmaanm13@gmail.com**  
 - 🤖 Passionate about AI, full-stack development, and open source  
 
 ---
@@ -18,29 +18,6 @@
 ## 🌐 Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaypartap-singh-maan)  
-
----
-
-## 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC)  
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B&logoColor=00599C)  
-![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=3776AB)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)  
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express&logoColor=white)  
-![React](https://img.shields.io/badge/-React-000?&logo=react)  
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)  
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)  
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)  
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)  
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)  
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)  
-![VS Code](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code)
 
 ---
 
