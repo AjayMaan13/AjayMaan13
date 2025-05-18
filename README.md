@@ -43,6 +43,11 @@
 <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytest-%230A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/WCAG-%23005A9C?style=for-the-badge&logo=w3c&logoColor=white" />
+<img src="https://img.shields.io/badge/Accessibility-%23121011?style=for-the-badge&logo=accessibility&logoColor=white" />
 
 </div>
 
