@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/Sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
-  </p>s
+  </p>
   
   <!-- Testing & QA -->
   <h3>🧪 Testing & QA</h3>
