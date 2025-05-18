@@ -44,6 +44,17 @@
 <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-%23000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+<img src="https://img.shields.io/badge/PL/SQL-%23F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenSSL-%23721412?style=for-the-badge&logo=openssl&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-%23009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-%23FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-%232088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/Pytest-%230A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 <img src="https://img.shields.io/badge/WCAG-%23005A9C?style=for-the-badge&logo=w3c&logoColor=white" />
