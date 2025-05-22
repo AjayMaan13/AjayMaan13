@@ -127,8 +127,6 @@
 
 </div>
 
-
-
 ## 📈 Profile Views
 
 <p align="center">
