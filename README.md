@@ -5,6 +5,7 @@
 
 ---
 
+
 ## 💫 About Me:
 
 - 🎓 I'm currently studying **Computer Programming and Analysis** at Seneca College  
