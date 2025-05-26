@@ -34,7 +34,16 @@
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/PL/SQL-%23F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   </p>
-  
+  <!-- AI & Machine Learning -->
+<h3>🤖 AI & Machine Learning</h3>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI%20GPT--4V-%23412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-%2300BFFF?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-%23FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-%234ECDC4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCR-%2300D2FF?style=for-the-badge&logo=tesseract&logoColor=white" />
+  <img src="https://img.shields.io/badge/PIL-%23013243?style=for-the-badge&logo=python&logoColor=white" />
+</p>
   <!-- Data Engineering & Analysis -->
   <h3>📊 Data Engineering & Analysis</h3>
   <p>
@@ -44,6 +53,9 @@
     <img src="https://img.shields.io/badge/Matplotlib-%23F37626?style=for-the-badge&logo=matplotlib&logoColor=white" />
     <img src="https://img.shields.io/badge/Seaborn-%238DD6F9?style=for-the-badge&logo=seaborn&logoColor=black" />
     <img src="https://img.shields.io/badge/Time%20Series-%2365A30D?style=for-the-badge&logo=plotly&logoColor=white" />
+    <img src="https://img.shields.io/badge/Image%20Processing-%2300BFFF?style=for-the-badge&logo=pillow&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON%20Processing-%23000000?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Validation-%234CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" />
   </p>
   
   <!-- Frontend -->
@@ -52,6 +64,7 @@
     <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </p>
@@ -66,6 +79,15 @@
     <img src="https://img.shields.io/badge/JWT-%23000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
     <img src="https://img.shields.io/badge/API%20Integration-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   </p>
+
+  <!-- Cloud & Deployment -->
+<h3>☁️ Cloud & Deployment</h3>
+<p>
+  <img src="https://img.shields.io/badge/Streamlit%20Cloud-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Environment%20Variables-%23326CE5?style=for-the-badge&logo=dotenv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secrets%20Management-%23FF6C37?style=for-the-badge&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Production%20Deployment-%2300C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
   
   <!-- Databases -->
   <h3>🗄️ Databases</h3>
@@ -110,6 +132,8 @@
     <img src="https://img.shields.io/badge/Logging-%23000000?style=for-the-badge&logo=grafana&logoColor=white" />
     <img src="https://img.shields.io/badge/Schedule-%23025E8C?style=for-the-badge&logo=pypi&logoColor=white" />
     <img src="https://img.shields.io/badge/Requests-%23025E8C?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Image%20Quality%20Assessment-%2300BFFF?style=for-the-badge&logo=quality&logoColor=white" />
+<img src="https://img.shields.io/badge/User%20Validation-%234CAF50?style=for-the-badge&logo=usercheck&logoColor=white" />
   </p>
 </div>
 
