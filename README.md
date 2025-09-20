@@ -15,6 +15,11 @@
 
 ---
 
+## 🌐 Personal Website & Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gray-xi-10.vercel.app/)
+
+---
+
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaypartap-singh-maan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AjayMaan13/)
@@ -31,6 +36,7 @@
   <p>
     <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/PL/SQL-%23F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -65,6 +71,9 @@
     <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/SWR-%23000000?style=for-the-badge&logo=swr&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jotai-%23000000?style=for-the-badge&logo=jotai&logoColor=white" />
     <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -76,6 +85,7 @@
     <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
     <img src="https://img.shields.io/badge/REST%20API-%23009688?style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/JWT-%23000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
     <img src="https://img.shields.io/badge/API%20Integration-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -105,6 +115,10 @@
   <h3>🧪 Testing & QA</h3>
   <p>
     <img src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+    <img src="https://img.shields.io/badge/TestNG-%23FF6C37?style=for-the-badge&logo=testng&logoColor=white" />
+  <img src="https://img.shields.io/badge/Page%20Object%20Model-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Driven%20Testing-%23FF6C37?style=for-the-badge&logo=testng&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parallel%20Execution-%230A9EDC?style=for-the-badge&logo=testng&logoColor=white" />
     <img src="https://img.shields.io/badge/Pytest-%230A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/WCAG-%23005A9C?style=for-the-badge&logo=w3c&logoColor=white" />
