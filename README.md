@@ -16,7 +16,7 @@
 ---
 
 ## 🌐 Personal Website & Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gray-xi-10.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ajaypartap-singh-maan.vercel.app)
 
 ---
 
