@@ -36,15 +36,15 @@
   <!-- AI / ML / LLM — led with, most emphasized -->
   <h3>🤖 AI / ML / LLM</h3>
   <p>
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow%2FKeras-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenAI%20GPT--4V-%23412991?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/Computer%20Vision-%2300BFFF?style=for-the-badge&logo=opencv&logoColor=white" />
     <img src="https://img.shields.io/badge/Generative%20AI-%23FF6B6B?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Prompt%20Engineering-%234ECDC4?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/IBM%20watsonx.ai-%23052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Anthropic%20Claude-%23D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
     <img src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-%23000000?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow%2FKeras-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Anthropic%20Claude-%23D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/IBM%20watsonx.ai-%23052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
     <img src="https://img.shields.io/badge/NetworkX-%234B8BBE?style=for-the-badge&logoColor=white" />
   </p>
 
