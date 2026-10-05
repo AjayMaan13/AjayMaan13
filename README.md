@@ -16,8 +16,7 @@
 
 ## 🌐 Personal Website & Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ajaymaan13.vercel.app)
-[![Vlogs](https://img.shields.io/badge/Vlogs-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://personal-blogs-mu.vercel.app/)
----
+[![Vlogs](https://img.shields.io/badge/Vlogs-%23000000?style=for-the-badge&logo=markdown&logoColor=white)](https://personal-blogs-mu.vercel.app)---
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaypartap-singh-maan)
