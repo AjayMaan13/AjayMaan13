@@ -9,7 +9,7 @@
 
 - 🎓 Final year, CS @ Seneca Polytechnic — graduating December 2026
 - 💼 Software Developer – AI Automations @ Government of Ontario (co-op, ended May 2026) — now looking for new-grad Software Developer / SDET / AI-ML roles in Toronto
-- 🤖 Passionate about AI, full-stack development, and open source and Hackathons (GenAI Genesis, MLH, Notion AI Challenge)
+- 🤖 Passionate about AI, full-stack development, and open source and Hackathons (GenAI Genesis, MLH, Hack the Valley, etc)
 - 📫 Reach me at: **ajayapsmaanm13@gmail.com**  
 
 ---
